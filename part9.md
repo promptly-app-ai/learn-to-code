@@ -1,10 +1,20 @@
-# ---------------------------------------------------------
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **YOU ARE HERE:** ➡️ **9. 🌱 Next Steps**
+
+---
 
 # **PART 9 — Next Steps**
 
 *Optional paths you can explore whenever curiosity hits — no pressure, no order required.*
 
-# ---------------------------------------------------------
+---
 
 You’ve already done the most important part:
 **you’ve started.**
@@ -300,3 +310,19 @@ And you’re doing all of that.
 
 **You’re not preparing to code. You *are* coding.**
 The rest is just more exploration.
+
+---
+
+## THE END
+
+### Contents
+
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **YOU ARE HERE:** ➡️ **9. 🌱 Next Steps**
