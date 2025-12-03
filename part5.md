@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 5 — Core Coding Concepts (Short, Friendly Modules)**
+# **PART 5 — 🧩 Core Coding Concepts (Short, Friendly Modules)**
 
 *These are the foundations you’ll see in every language. Each module includes: a simple definition, a tiny JS example, a tiny Python example, and a quick try-it-yourself idea.*
 

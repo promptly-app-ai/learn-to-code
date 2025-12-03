@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 2 — Your First Hour (Do This First)**
+# **PART 2 — 🚀 Your First Hour (Do This First)**
 
 *A step-by-step experience to get your first real “I’m coding!” win*
 

@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 7 — Learning With AI**
+# **PART 7 — 🤖 Learning With AI**
 
 *How to use ChatGPT as a tutor, not a crutch — structured, simple, beginner-safe.*
 

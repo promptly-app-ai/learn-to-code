@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 4 — Curiosity Modules (Choose Your Path)**
+# **PART 4 — 🔍 Curiosity Modules (Choose Your Path)**
 
 *Short, visual, skimmable modules designed to spark interest — explore in any order.*
 

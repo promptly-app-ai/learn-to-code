@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 8 — How AI Works (Beginner-Friendly Overview)**
+# **PART 8 — 🧠 How AI Works (Beginner-Friendly Overview)**
 
 *A simple, visual explanation of modern AI — no math, no jargon, just the concepts you actually need.*
 

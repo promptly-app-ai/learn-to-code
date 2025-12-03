@@ -1,4 +1,4 @@
-- **YOU ARE HERE:** ➡️ **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **YOU ARE HERE:** ➡️ **1. 📘 Welcome & How to Use This Guide**
 - **2.** 🚀 [Your First Hour (Do This First)](part2.md)
 - **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
 - **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
@@ -14,7 +14,7 @@
 
 *A friendly, visual, ADHD-safe starting point for learning to code today*
 
-# **PART 1 — Welcome & How to Use This Guide**
+# **PART 1 — 📘 Welcome & How to Use This Guide**
 
 ## **Why this guide exists**
 
@@ -131,7 +131,7 @@ You’ll get quick wins soon — and they add up fast.
 
 ### Contents
 
-* **YOU ARE HERE:** ➡️ **1.** 📘 [Welcome & How to Use This Guide](README.md)  
+* **YOU ARE HERE:** ➡️ **1. 📘 Welcome & How to Use This Guide**
 * **2.** 🚀 [Your First Hour (Do This First)](part2.md)  
 * **3.** 🧭 [Quick Orientation: How Code Works](part3.md)  
 * **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)  

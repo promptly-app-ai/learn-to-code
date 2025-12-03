@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 3 — Quick Orientation: How Code Works**
+# **PART 3 — 🧭 Quick Orientation: How Code Works**
 
 *A super simple, zero-jargon overview before you explore further*
 

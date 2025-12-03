@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 6 — Your Beginner Toolkit**
+# **PART 6 — 🛠️ Your Beginner Toolkit**
 
 *Just the few tools that matter for a true beginner — simple, modern, ADHD-friendly, and safe.*
 

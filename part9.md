@@ -10,7 +10,7 @@
 
 ---
 
-# **PART 9 — Next Steps**
+# **PART 9 — 🌱 Next Steps**
 
 *Optional paths you can explore whenever curiosity hits — no pressure, no order required.*
 
