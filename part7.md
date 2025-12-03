@@ -1,10 +1,20 @@
-# ---------------------------------------------------------
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **YOU ARE HERE:** ➡️ **7. 🤖 Learning With AI**
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
+
+---
 
 # **PART 7 — Learning With AI**
 
 *How to use ChatGPT as a tutor, not a crutch — structured, simple, beginner-safe.*
 
-# ---------------------------------------------------------
+---
 
 AI can speed up your learning enormously **if you use it the right way**.
 This section shows how to get explanations, hints, clarity, and confidence *without* becoming dependent on AI to write everything for you.
@@ -232,3 +242,18 @@ You’re already doing it correctly:
 
 That combination is exactly how real programmers learn.
 
+
+---
+
+## 👉👉 **NEXT:** **8.** 🧠 [How AI Works](part8.md) 👈👈
+
+### Contents
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **YOU ARE HERE:** ➡️ **7. 🤖 Learning With AI**
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
