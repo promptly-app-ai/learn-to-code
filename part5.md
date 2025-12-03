@@ -254,7 +254,7 @@ Change the index number.
 
 ### **Visual explainer**
 
-* See lists visually with [PythonTutor](https://pythontutor.com/javascript.html)
+* See lists visually with [PythonTutor](https://pythontutor.com/javascript.html) (open page, paste code, click "Visualize Execution")
 
 ---
 

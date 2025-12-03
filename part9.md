@@ -47,7 +47,7 @@ Skim, hop around, follow what feels interesting.
 
 * Animated guide to [how the web works (YouTube)](https://www.youtube.com/watch?v=hJHvdBlSxug)
 * Request/response dance [visual explainer (YouTube)](https://www.youtube.com/watch?v=32Pea78eY7k)
-* TikTok quick intro from [tt/thecodercoder](https://www.tiktok.com/@thecodercoder)
+* Channel: [tt/thecodercoder](https://www.tiktok.com/@thecodercoder)
 
 ### Try this (super small)
 
