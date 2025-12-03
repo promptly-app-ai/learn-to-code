@@ -12,7 +12,7 @@
 
 # **THE BEGINNER’S CHOOSE-YOUR-OWN-ADVENTURE GUIDE TO CODING**
 
-*A friendly, visual, ADHD-safe starting point for learning to code today*
+*A friendly, visual starting point for learning to code today, even if you are scatter-brained like me.*
 
 # **PART 1 — 📘 Welcome & How to Use This Guide**
 
