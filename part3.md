@@ -1,12 +1,20 @@
----
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **YOU ARE HERE:** ➡️ **3. 🧭 Quick Orientation: How Code Works**
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
 
-# ---------------------------------------------------------
+---
 
 # **PART 3 — Quick Orientation: How Code Works**
 
 *A super simple, zero-jargon overview before you explore further*
 
-# ---------------------------------------------------------
+---
 
 This part is intentionally short. It gives just enough clarity so later concepts feel less mysterious — but it will not drown you in theory.
 
@@ -160,3 +168,19 @@ It’s about:
 * solving problems step-by-step
 
 You already started doing that.
+
+---
+
+## 👉👉 **NEXT:** **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)   👈👈
+
+### Contents
+
+* **1.** 📘 [Welcome & How to Use This Guide](README.md)  
+* **2.** 🚀 [Your First Hour (Do This First)](part2.md)  
+* **YOU ARE HERE:** ➡️ **3. 🧭 Quick Orientation: How Code Works**
+* **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)  
+* **5.** 🧩 [Core Coding Concepts](part5.md)  
+* **6.** 🛠️ [Your Beginner Toolkit](part6.md)  
+* **7.** 🤖 [Learning With AI](part7.md)  
+* **8.** 🧠 [How AI Works](part8.md)  
+* **9.** 🌱 [Next Steps](part9.md)
