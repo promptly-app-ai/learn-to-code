@@ -12,7 +12,7 @@
 
 # **THE BEGINNER’S CHOOSE-YOUR-OWN-ADVENTURE GUIDE TO CODING**
 
-*A friendly, visual, ADHD-safe starting point for learning to code today*
+*A friendly, visual starting point for learning to code today, even if you are scatter-brained like me.*
 
 # **PART 1 — 📘 Welcome & How to Use This Guide**
 
@@ -52,13 +52,13 @@ This is not a syllabus. It’s a map.
 
 You’ll find:
 
-* **The First Hour** → your first real hands-on experience
-* **Curiosity Modules** → short, visual, playful learning paths
-* **Core Concepts** → the building blocks of how code works
-* **Tools** → simple, modern ways to run code
-* **AI Skills** → how to ask for help without becoming dependent on AI
-* **Beginner AI Concepts** → how tools like ChatGPT work
-* **Next Steps** → what to explore later if you want more
+* **[The First Hour[(part2.md)** → your first real hands-on experience
+* **[Curiosity Modules](part4.md)** → short, visual, playful learning paths
+* **[Core Concepts](part5.md)** → the building blocks of how code works
+* **[Tools](part6.md)** → simple, modern ways to run code
+* **[AI Skills](part7.md)** → how to ask for help without becoming dependent on AI
+* **[Beginner AI Concepts](part8.md)** → how tools like ChatGPT work
+* **[Next Steps](part9.md)** → what to explore later if you want more
 
 Feel free to skip, skim, and bounce around.
 
