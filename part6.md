@@ -1,10 +1,20 @@
-# ---------------------------------------------------------
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **YOU ARE HERE:** ➡️ **6. 🛠️ Your Beginner Toolkit**
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
+
+---
 
 # **PART 6 — Your Beginner Toolkit**
 
 *Just the few tools that matter for a true beginner — simple, modern, ADHD-friendly, and safe.*
 
-# ---------------------------------------------------------
+---
 
 This list is deliberately **short**.
 Too many tools = overwhelm.
@@ -236,3 +246,19 @@ Avoid:
 * “Write the whole app for me.”
 
 The goal is understanding, not outsourcing.
+
+---
+
+## 👉👉 **NEXT:** **7.** 🤖 [Learning With AI](part7.md) 👈👈
+
+### Contents
+
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **YOU ARE HERE:** ➡️ **6. 🛠️ Your Beginner Toolkit**
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
