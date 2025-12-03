@@ -1,10 +1,20 @@
-# ---------------------------------------------------------
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **YOU ARE HERE:** ➡️ **5. 🧩 Core Coding Concepts**
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
+
+---
 
 # **PART 5 — Core Coding Concepts (Short, Friendly Modules)**
 
 *These are the foundations you’ll see in every language. Each module includes: a simple definition, a tiny JS example, a tiny Python example, and a quick try-it-yourself idea.*
 
-# ---------------------------------------------------------
+---
 
 These modules are intentionally short and clear — **no jargon, no deep theory, no heavy explanations.**
 They exist to build familiarity, not mastery.
@@ -327,3 +337,19 @@ console.log("Hi from the browser console!");
 ```
 
 You just ran JS directly inside your browser.
+
+---
+
+## 👉👉 **NEXT:** **6.** 🛠️ [Your Beginner Toolkit](part6.md) 👈👈
+
+### Contents
+
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **YOU ARE HERE:** ➡️ **5. 🧩 Core Coding Concepts**
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
