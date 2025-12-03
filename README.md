@@ -1,12 +1,18 @@
-# ---------------------------------------------------------
+- **YOU ARE HERE:** ➡️ **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
+
+---
 
 # **THE BEGINNER’S CHOOSE-YOUR-OWN-ADVENTURE GUIDE TO CODING**
 
 *A friendly, visual, ADHD-safe starting point for learning to code today*
-
-# ---------------------------------------------------------
-
----
 
 # **PART 1 — Welcome & How to Use This Guide**
 
@@ -121,3 +127,16 @@ You’ll get quick wins soon — and they add up fast.
 
 ---
 
+## 👉👉 **NEXT:** **2.** 🚀 [Your First Hour (Do This First)](part2.md) 👈👈
+
+### Contents
+
+* **YOU ARE HERE:** ➡️ **1.** 📘 [Welcome & How to Use This Guide](README.md)  
+* **2.** 🚀 [Your First Hour (Do This First)](part2.md)  
+* **3.** 🧭 [Quick Orientation: How Code Works](part3.md)  
+* **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)  
+* **5.** 🧩 [Core Coding Concepts](part5.md)  
+* **6.** 🛠️ [Your Beginner Toolkit](part6.md)  
+* **7.** 🤖 [Learning With AI](part7.md)  
+* **8.** 🧠 [How AI Works](part8.md)  
+* **9.** 🌱 [Next Steps](part9.md)
