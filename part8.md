@@ -1,10 +1,20 @@
-# ---------------------------------------------------------
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **YOU ARE HERE:** ➡️ **8. 🧠 How AI Works**
+- **9.** 🌱 [Next Steps](part9.md)
+
+---
 
 # **PART 8 — How AI Works (Beginner-Friendly Overview)**
 
 *A simple, visual explanation of modern AI — no math, no jargon, just the concepts you actually need.*
 
-# ---------------------------------------------------------
+---
 
 This section gives you:
 
@@ -254,3 +264,19 @@ Most beginners either:
 
 You’re in the middle — the ideal place.
 
+
+---
+
+## 👉👉 **NEXT:** **9.** 🌱 [Next Steps](part9.md) 👈👈
+
+### Contents
+
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **YOU ARE HERE:** ➡️ **8. 🧠 How AI Works**
+- **9.** 🌱 [Next Steps](part9.md)
