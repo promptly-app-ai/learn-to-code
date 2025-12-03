@@ -45,9 +45,9 @@ Skim, hop around, follow what feels interesting.
 
 ### Visual explainers
 
-* Animated guide to [how the web works (YouTube)](https://youtube.com/)
-* Request/response dance [visual explainer (YouTube)](https://youtube.com/)
-* TikTok quick intro from [tt/thecodercoder](https://tiktok.com/)
+* Animated guide to [how the web works (YouTube)](https://www.youtube.com/watch?v=hJHvdBlSxug)
+* Request/response dance [visual explainer (YouTube)](https://www.youtube.com/watch?v=32Pea78eY7k)
+* TikTok quick intro from [tt/thecodercoder](https://www.tiktok.com/@thecodercoder)
 
 ### Try this (super small)
 
@@ -83,8 +83,8 @@ You don’t need to build anything — just get familiar with what’s possible.
 
 ### Visual explainers
 
-* Intro to Canvas drawing [beginner animation (YouTube)](https://youtube.com/)
-* How pixels work [simple visual](https://youtube.com/)
+* Intro to Canvas drawing [beginner animation (YouTube)](https://www.youtube.com/watch?v=BDLlWQuqOU8)
+* How pixels work [simple visual](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 
 ### Try this
 
@@ -155,8 +155,8 @@ Ask AI:
 
 ### Visual explainers
 
-* Python loops [animation (YouTube)](https://youtube.com/)
-* Variables in Python [simple overview](https://youtube.com/)
+* Python loops [animation (YouTube)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+* Variables in Python [simple overview](https://www.youtube.com/watch?v=hJHvdBlSxug)
 
 ### Try this in the Python sandbox
 
@@ -183,8 +183,8 @@ Do a few Exercism Python exercises and ask AI for hints (not answers).
 
 ### Visual explainers
 
-* Apps vs websites [simple breakdown (YouTube)](https://youtube.com/)
-* Frontend vs backend [visual explainer (YouTube)](https://youtube.com/)
+* Apps vs websites [simple breakdown (YouTube)](https://www.youtube.com/watch?v=iD2fgC74ZtA)
+* Frontend vs backend [visual explainer (YouTube)](https://www.youtube.com/watch?v=32Pea78eY7k)
 
 ### Try this
 
@@ -206,8 +206,8 @@ If the analogy makes sense to you, you’re on the right track.
 
 ### Visual explainers
 
-* APIs for beginners [animation (YouTube)](https://youtube.com/)
-* What a server does [simple explainer](https://youtube.com/)
+* APIs for beginners [animation (YouTube)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+* What a server does [simple explainer](https://www.youtube.com/watch?v=32Pea78eY7k)
 
 ### Try this
 

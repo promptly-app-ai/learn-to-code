@@ -44,9 +44,9 @@ A simple picture:
 
 ### **Great visual explainers**
 
-* Watch this quick video on [how websites work (YouTube)](https://youtube.com/)
-* A simple animation showing [client vs server (YouTube)](https://youtube.com/)
-* TikTok explainer from [tt/thecodercoder](https://tiktok.com/)
+* Watch this quick video on [how websites work (YouTube)](https://www.youtube.com/watch?v=2rsI05vBsD4)
+* A simple animation showing [client vs server (YouTube)](https://www.youtube.com/watch?v=L5BlpPU_muY)
+* TikTok explainer from [tt/thecodercoder](https://www.tiktok.com/@thecodercoder)
 
 ### **Try this (optional)**
 
@@ -75,9 +75,9 @@ Think of it like cooking utensils: a whisk isn’t better than a spatula — it 
 
 ### **Great visual explainers**
 
-* Simple breakdown of [programming languages explained (YouTube)](https://youtube.com/)
-* What languages do what? [Visual guide (YouTube)](https://youtube.com/)
-* Quick TikTok overview from [tt/harvardcs50](https://tiktok.com/)
+* Simple breakdown of [programming languages explained (YouTube)](https://www.youtube.com/watch?v=yj_bYZJ_Hoo)
+* What languages do what? [Visual guide (YouTube)](https://www.youtube.com/watch?v=5eqqQOYDFu8)
+* Quick TikTok overview from [tt/harvardcs50](https://www.tiktok.com/@cs50)
 
 ### **Optional code comparison**
 
@@ -115,9 +115,9 @@ Here’s a tiny simulation in PlayCode:
 
 ### **Great visual explainers**
 
-* How browser events work [explainer (YouTube)](https://youtube.com/)
-* DOM (the structure of a webpage) [visual intro (YouTube)](https://youtube.com/)
-* TikTok example from [tt/frontendengineer](https://tiktok.com/)
+* How browser events work [explainer (YouTube)](https://www.youtube.com/watch?v=NeIskb4KzGk)
+* DOM (the structure of a webpage) [visual intro (YouTube)](https://www.youtube.com/watch?v=nnbSQQH-SGw)
+* TikTok example from [tt/frontendengineer](https://www.tiktok.com/@frontendengineer)
 
 ### **Try this**
 
@@ -150,9 +150,9 @@ print(name)
 
 ### **Great visual explainers**
 
-* Visual beginner guide to [variables (YouTube)](https://youtube.com/)
-* Memory explained super simply [CS Dojo (YouTube)](https://youtube.com/)
-* TikTok from [tt/codingwithmitch](https://tiktok.com/)
+* Visual beginner guide to [variables (YouTube)](https://www.youtube.com/watch?v=Jvrszgiexg0)
+* Memory explained super simply [CS Dojo (YouTube)](https://www.youtube.com/@CSDojo)
+* TikTok from [tt/codingwithmitch](https://www.tiktok.com/@codingwithmitch)
 
 ### **Try this**
 
@@ -186,9 +186,9 @@ for i in range(1, 4):
 
 ### **Great visual explainers**
 
-* Watch this animation on [how loops work (YouTube)](https://youtube.com/)
+* Watch this animation on [how loops work (YouTube)](https://www.youtube.com/watch?v=Kn06785pkJg)
 * See each loop iteration visually in [PythonTutor](https://pythontutor.com/javascript.html)
-* A TikTok snippet explaining loops: [tt/cs_dojo](https://tiktok.com/)
+* A TikTok snippet explaining loops: [tt/cs_dojo](https://www.tiktok.com/@csdojo)
 
 ### **Try this**
 
@@ -216,9 +216,9 @@ console.log("Missing quote);
 
 ### **Great explainers**
 
-* “Why your code breaks” [beginner explainer (YouTube)](https://youtube.com/)
-* Debugging basics from [CS Dojo (YouTube)](https://youtube.com/)
-* Real quick examples from [tt/thecodercoder](https://tiktok.com/)
+* “Why your code breaks” [beginner explainer (YouTube)](https://www.youtube.com/watch?v=vQnJTJfIyTQ)
+* Debugging basics from [CS Dojo (YouTube)](https://www.youtube.com/@CSDojo)
+* Real quick examples from [tt/thecodercoder](https://www.tiktok.com/@thecodercoder)
 
 ### **Try this**
 
@@ -248,8 +248,8 @@ You'll see the computer process your program line by line.
 
 ### **Great explainers**
 
-* Full tour of PythonTutor [visual intro (YouTube)](https://youtube.com/)
-* Step-through example from [tt/computer_science_basics](https://tiktok.com/)
+* Full tour of PythonTutor [visual intro (YouTube)](https://www.youtube.com/watch?v=nnbSQQH-SGw)
+* Step-through example from [tt/computer_science_basics](https://www.tiktok.com/@computer_science_basics)
 
 ### **Try this**
 
@@ -271,9 +271,9 @@ It’s just a back-and-forth conversation.
 
 ### **Great visual explainers**
 
-* Basics of the Internet [animated (YouTube)](https://youtube.com/)
-* Client vs server [simple animation (YouTube)](https://youtube.com/)
-* TikTok from [tt/techwithtim](https://tiktok.com/)
+* Basics of the Internet [animated (YouTube)](https://www.youtube.com/watch?v=Sfzo4xm5eX8)
+* Client vs server [simple animation (YouTube)](https://www.youtube.com/watch?v=UXsomnDkntI)
+* TikTok from [tt/techwithtim](https://www.tiktok.com/@tech_with_tim)
 
 ### **Try this**
 
@@ -302,9 +302,9 @@ You just drew something with code.
 
 ### **Great visual explainers**
 
-* What is the Canvas? [visual intro (YouTube)](https://youtube.com/)
-* JavaScript drawing basics [animated (YouTube)](https://youtube.com/)
-* TikTok from [tt/webdevcody](https://tiktok.com/)
+* What is the Canvas? [visual intro (YouTube)](https://www.youtube.com/watch?v=nnbSQQH-SGw)
+* JavaScript drawing basics [animated (YouTube)](https://www.youtube.com/watch?v=Sfzo4xm5eX8)
+* TikTok from [tt/webdevcody](https://www.tiktok.com/@webdevcody)
 
 ### **Try this**
 

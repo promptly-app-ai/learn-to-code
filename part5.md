@@ -153,7 +153,7 @@ Change the number — watch the message change.
 
 ### **Visual explainer**
 
-* Beginner explanation of [if/else logic (YouTube)](https://youtube.com/)
+* Beginner explanation of [if/else logic (YouTube)](https://www.youtube.com/watch?v=HQ3dCWjfRZ4)
 
 ---
 
@@ -191,7 +191,7 @@ Add another parameter, like `age`.
 
 ### **Visual explainer**
 
-* Friendly guide to [functions (YouTube)](https://youtube.com/)
+* Friendly guide to [functions (YouTube)](https://www.youtube.com/watch?v=Q5A9_UdFm5Q)
 
 ---
 

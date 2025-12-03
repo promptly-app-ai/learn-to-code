@@ -194,17 +194,17 @@ These creators explain coding concepts in simple, visual ways.
 
 ### TikTok
 
-* [tt/thecodercoder](https://tiktok.com/) — easy explainers for frontend concepts
-* [tt/cs_dojo](https://tiktok.com/) — loops, variables, logic, beginner Q&A
-* [tt/techwithtim](https://tiktok.com/) — Python basics and animations
-* [tt/frontendengineer](https://tiktok.com/) — how buttons, DOM, events work
+* [tt/thecodercoder](https://www.tiktok.com/@thecodercoder) — easy explainers for frontend concepts
+* [tt/cs_dojo](https://www.tiktok.com/@csdojo) — loops, variables, logic, beginner Q&A
+* [tt/techwithtim](https://www.tiktok.com/@tech_with_tim) — Python basics and animations
+* [tt/frontendengineer](https://www.tiktok.com/@frontendengineer) — how buttons, DOM, events work
 
 ### YouTube
 
-* [how loops work (YouTube)](https://youtube.com/) — animated concept video
-* [variables explained visually (YouTube)](https://youtube.com/)
-* [what happens when you click (YouTube)](https://youtube.com/)
-* [Internet basics (YouTube)](https://youtube.com/)
+* [how loops work (YouTube)](https://www.youtube.com/watch?v=Kn06785pkJg) — animated concept video
+* [variables explained visually (YouTube)](https://www.youtube.com/watch?v=Jvrszgiexg0)
+* [what happens when you click (YouTube)](https://www.youtube.com/shorts/UA007DDEVCE)
+* [Internet basics (YouTube)](https://www.youtube.com/watch?v=Dxcc6ycZ73M)
 
 ### Why these help
 
