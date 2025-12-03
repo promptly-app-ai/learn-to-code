@@ -1,10 +1,20 @@
-# ---------------------------------------------------------
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **YOU ARE HERE:** ➡️ **2. 🚀 Your First Hour (Do This First)**
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
+
+---
 
 # **PART 2 — Your First Hour (Do This First)**
 
 *A step-by-step experience to get your first real “I’m coding!” win*
 
-# ---------------------------------------------------------
+---
 
 Everything below is **exact, copy/paste friendly**, and designed to build confidence immediately.
 
@@ -203,3 +213,19 @@ This is the beginning of real comprehension.
 And importantly:
 
 ✨ **You are already coding.** ✨
+
+---
+
+## 👉👉 **NEXT:** **3.** 🧭 [Quick Orientation: How Code Works](part3.md)  👈👈
+
+### Contents
+
+* **1.** 📘 [Welcome & How to Use This Guide](README.md)  
+* **YOU ARE HERE:** ➡️ **2. 🚀 [Your First Hour (Do This First)**
+* **3.** 🧭 [Quick Orientation: How Code Works](part3.md)  
+* **4.** 🔍 [Curiosity Modules (Choose Your Path)](part4.md)  
+* **5.** 🧩 [Core Coding Concepts](part5.md)  
+* **6.** 🛠️ [Your Beginner Toolkit](part6.md)  
+* **7.** 🤖 [Learning With AI](part7.md)  
+* **8.** 🧠 [How AI Works](part8.md)  
+* **9.** 🌱 [Next Steps](part9.md)
