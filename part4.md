@@ -1,11 +1,20 @@
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **YOU ARE HERE:** ➡️ **4. 🔍 Curiosity Modules (Choose Your Path)**
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
 
-# ---------------------------------------------------------
+---
 
 # **PART 4 — Curiosity Modules (Choose Your Path)**
 
 *Short, visual, skimmable modules designed to spark interest — explore in any order.*
 
-# ---------------------------------------------------------
+---
 
 Each module includes:
 
@@ -319,3 +328,19 @@ Pick a single CheckIO puzzle and attempt the simplest version.
 If stuck, ask AI:
 
 > “Can you give me a hint, not the answer?”
+
+---
+
+## 👉👉 **NEXT:** **5.** 🧩 [Core Coding Concepts](part5.md) 👈👈
+
+### Contents
+
+- **1.** 📘 [Welcome & How to Use This Guide](README.md)
+- **2.** 🚀 [Your First Hour (Do This First)](part2.md)
+- **3.** 🧭 [Quick Orientation: How Code Works](part3.md)
+- **YOU ARE HERE:** ➡️ **4. 🔍 Curiosity Modules (Choose Your Path)**
+- **5.** 🧩 [Core Coding Concepts](part5.md)
+- **6.** 🛠️ [Your Beginner Toolkit](part6.md)
+- **7.** 🤖 [Learning With AI](part7.md)
+- **8.** 🧠 [How AI Works](part8.md)
+- **9.** 🌱 [Next Steps](part9.md)
